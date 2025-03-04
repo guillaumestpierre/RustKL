@@ -1,22 +1,21 @@
 # RustKL
 
-Image Compression and Reconstruction using the KL transform in Rust
+Image Compression and Reconstruction using the KL transform in Rust.
+It currently has a considerable luminosity loss during the transformation.
+I'm working on it o7
 
 # Installation
 
 ```
 #Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
-
-#Navigate to the project directory
-cd your-repo-name
-
-#Build the project
-cargo build --release
+git clone https://github.com/guillaumestpierre/RustKL.git
 ```
 
 # Usage
 ```
+#Navigate to the project directory
+cd RustKL
+
 #Run the application
 cargo run --release
 ```
