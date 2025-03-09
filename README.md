@@ -1,8 +1,6 @@
 # RustKL
 
 Image Compression and Reconstruction using the KL transform in Rust.
-It currently has a considerable luminosity loss during the transformation.
-I'm working on it o7
 
 # Installation
 
